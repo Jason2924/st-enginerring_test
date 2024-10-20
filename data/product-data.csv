@@ -1,0 +1,26 @@
+id,name,price,currency,image,rating_average,rating_reviews
+1,Founders All Day IPA,16.99,USD,"https://example.com/product1.png",4.411243509,453
+2,Lagunitas IPA,11.99,USD,"https://example.com/product2.png",4.333512352,786
+3,Stone IPA,15.49,USD,"https://example.com/product3.png",4.5331421,634
+4,Dogfish Head 60 Minute IPA,17.99,USD,"https://example.com/product4.png",4.28347297,543
+5,Sierra Nevada Pale Ale,14.49,USD,"https://example.com/product5.png",4.411243509,678
+6,Bell's Two Hearted Ale,13.99,USD,"https://example.com/product6.png",4.645436212,789
+7,New Belgium Fat Tire,12.99,USD,"https://example.com/product7.png",4.134251235,321
+8,Guinness Draught,10.99,USD,"https://example.com/product8.png",4.541315514,987
+9,Blue Moon Belgian White,11.49,USD,"https://example.com/product9.png",4.343251233,432
+10,Samuel Adams Boston Lager,15.99,USD,"https://example.com/product10.png",4.441231252,765
+11,Heineken,9.99,USD,"https://example.com/product11.png",4.242567765,876
+12,Corona Extra,12.99,USD,"https://example.com/product12.png",4.1859559,941
+13,Modelo Especial,13.49,USD,"https://example.com/product13.png",4.35432346,523
+14,Budweiser,8.99,USD,"https://example.com/product14.png",4.065473457,342
+15,Miller Lite,7.99,USD,"https://example.com/product15.png",3.954323478,253
+16,Coors Light,6.99,USD,"https://example.com/product16.png",3.8237,654
+17,Pabst Blue Ribbon,5.99,USD,"https://example.com/product17.png",3.865434215,241
+18,Yuengling Traditional Lager,14.99,USD,"https://example.com/product18.png",4.56548568,567
+19,Dos Equis Lager,13.99,USD,"https://example.com/product19.png",4.2234517,453
+20,Michelob Ultra,11.99,USD,"https://example.com/product20.png",4.352423413,764
+21,Beck's,10.99,USD,"https://example.com/product21.png",4.143251635,328
+22,Stella Artois,14.49,USD,"https://example.com/product22.png",4.442357568,789
+23,Hoegaarden,13.99,USD,"https://example.com/product23.png",4.541235613,653
+24,Peroni Nastro Azzurro,15.99,USD,"https://example.com/product24.png",4.254309844,321
+25,Carlsberg,11.49,USD,"https://example.com/product25.png",4.3009012,421

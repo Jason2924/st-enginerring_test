@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+
+  database:
+    image: mysql:8.3.0
+    restart: always
+    container_name: database
+    volumes:
+      - data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    env_file:
+      - app.env
+
+  adminer:
+    image: adminer:4.8.1
+    container_name: adminer
+    ports:
+      - '8080:8080'
+    depends_on:
+      - database
+    environment:
+      - ADMINER_DEFAULT_SERVER=database
+
+volumes:
+  data:
